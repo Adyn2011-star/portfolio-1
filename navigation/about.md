@@ -22,6 +22,7 @@ gallery_images:
 
 ## As a conversation Starter
 
+
 Here are some places I have lived.
 
 <comment>
